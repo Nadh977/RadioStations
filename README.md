@@ -1,14 +1,14 @@
 # Projet mobile Stations Radios élaboré par:
 
-### Kebaier Nadhir
+#### Kebaier Nadhir
 
-### Nalouti Bouthayna
+#### Nalouti Bouthayna
 
-### Ouaghlani Sahar
+#### Ouaghlani Sahar
 
 ## Groupe:
 
-# 2 IDL 01
+### 2 IDL 01
 
 ## Comment faire ?
 
