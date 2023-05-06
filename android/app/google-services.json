@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "562481393831",
+    "firebase_url": "https://appliradio-961de-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "appliradio-961de",
+    "storage_bucket": "appliradio-961de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562481393831:android:c5aa928310ef1ce4bdab82",
+        "android_client_info": {
+          "package_name": "com.example.projet_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562481393831-8pduq8pkr9f1nn6ecc94fahev4c02gl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxpNpkppycPrVbA5Z3ZxK-M00KJj-PUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562481393831-8pduq8pkr9f1nn6ecc94fahev4c02gl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562481393831-1seootqjfnpekis6sliv9gsvdvnak8h5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projetMobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562481393831:android:6171605440f7f3c3bdab82",
+        "android_client_info": {
+          "package_name": "com.example.radios_stations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562481393831-8pduq8pkr9f1nn6ecc94fahev4c02gl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxpNpkppycPrVbA5Z3ZxK-M00KJj-PUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562481393831-8pduq8pkr9f1nn6ecc94fahev4c02gl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562481393831-1seootqjfnpekis6sliv9gsvdvnak8h5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projetMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
