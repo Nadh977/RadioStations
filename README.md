@@ -1,16 +1,14 @@
 # radios_stations
 
-A new Flutter project.
+Projet mobile élaboré par:
+Kebaier Nadhir
+Nalouti Bouthayna
+Ouaghlani Sahar
+
+Groupe: 2 IDL 01
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Il suffit juste de lancer l'application et vous aurez accès aux radios !
+(NB: il est possible que les logos ne vont pas apparaitre si vous lancez depuis un navigateur
+Pour vous assurer que vous aurez accès aux icones, veuillez lancer depuis un smartphone ! Merci)
