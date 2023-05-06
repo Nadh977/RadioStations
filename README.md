@@ -1,13 +1,16 @@
-# radios_stations
+# Projet mobile Stations Radios élaboré par:
 
-Projet mobile élaboré par:
-Kebaier Nadhir
-Nalouti Bouthayna
-Ouaghlani Sahar
+### Kebaier Nadhir
 
-Groupe: 2 IDL 01
+### Nalouti Bouthayna
 
-## Getting Started
+### Ouaghlani Sahar
+
+## Groupe:
+
+# 2 IDL 01
+
+## Comment faire ?
 
 Il suffit juste de lancer l'application et vous aurez accès aux radios !
 (NB: il est possible que les logos ne vont pas apparaitre si vous lancez depuis un navigateur
